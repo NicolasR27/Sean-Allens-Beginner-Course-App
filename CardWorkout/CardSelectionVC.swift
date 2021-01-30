@@ -1,10 +1,4 @@
-//
-//  CardSelectionVC.swift
-//  CardWorkout
-//
-//  Created by Nicolas Rios on 4/5/20.
-//  Copyright © 2020 Nicolas Rios. All rights reserved.
-//
+
 
 import UIKit
 
